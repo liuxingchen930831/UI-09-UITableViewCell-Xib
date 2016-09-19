@@ -3,7 +3,7 @@
 	- 1.创建一个继承自UITableViewCell的子类，比如XMGDealCell<br>
 	- 2.创建一个xib文件（文件名建议跟cell的类名一样），比如XMGDealCell.xib
 		- 拖拽一个UITableViewCell出来
-		- 修改cell的class为XMGDealCell
+		- 修改cell的class为XCDealCell
 		- **设置cell的重用标识**
 		- 往cell中添加需要用到的子控件
 	- 3.在控制器中
